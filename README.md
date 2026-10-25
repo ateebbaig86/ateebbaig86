@@ -1,6 +1,6 @@
 # Hi, I'm Ateeb 👋
 
-Systems Engineer passionate about embedded systems, edge computing, and real-time computer vision. Currently focused on building wearable AI solutions to improve accessibility.
+Systems Engineer passionate about embedded systems, edge computing, and real-time computer vision. Interested in developing practical hardware-software solutions and exploring edge AI applications.
 
 ### 🛠 Tech Stack
 - **Languages:** Python, C/C++
@@ -8,8 +8,10 @@ Systems Engineer passionate about embedded systems, edge computing, and real-tim
 - **Computer Vision & AI:** OpenCV, PyTorch, YOLO, InsightFace, MediaPipe
 - **Backend & Tools:** Flask, Git, VS Code, Linux
 
-### 🚀 Featured Project
-- **Wearable AI Vision Assistant:** An assistive device using an ESP32-CAM, ultrasonic distance sensors, and custom lightweight vision models for real-time obstacle detection and facial recognition.
+### 🔭 What I'm Working On
+- Developing edge AI and computer vision prototypes.
+- Exploring microcontroller-based sensor integration and IoT applications.
+- Experimenting with real-time object detection and embedded firmware.
 
 ### 🌐 Connect With Me
-- [LinkedIn]https://www.linkedin.com/in/ateeb-baig-h-6370a7209/
+- [LinkedIn](https://www.linkedin.com/in/ateeb-baig-h-6370a7209/)
